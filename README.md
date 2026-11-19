@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This repository contains Part 3 of the PROG5121 Programming Project of Expertise (POE). The project is developed using Java in the NetBeans Integrated Development Environment (IDE).
+This repository contains Part 3 of the PROG5121(POE). The project is developed using Java in the NetBeans Integrated Development Environment (IDE).
 
 The purpose of this project is to demonstrate practical programming knowledge, object-oriented programming principles, data management, and the implementation of software functionality.
 
